@@ -129,7 +129,7 @@
 }
 .custom .stick{
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/stick.svgz);
+    background: url(stick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
