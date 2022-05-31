@@ -8,9 +8,9 @@
     background: url(howard2.png);
 }
 .custom.disconnected {
-    display: none;
 }
 .custom.disconnected div {
+    display: none;
 }
 .custom .triggers{
     width: 446px;
