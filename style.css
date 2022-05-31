@@ -8,6 +8,7 @@
     background: url(howard2.png);
 }
 .custom.disconnected {
+    background: url(http://gamepadviewer.com/xbox-assets/disconnected.svgz)
 }
 .custom.disconnected div {
     display: none;
